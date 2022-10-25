@@ -7,7 +7,7 @@ Dans cette version, 2 paramètres ont été utilisés, le niveau de vie médian 
 
 On peut voir sur les figures qu'avec un réseau à 2 couches de 8 neurones chacune, le réseau prédit des résultats qualitativement similaires à ceux obtenus lors des élections.
 
-Chaque point représente une commune française.
+Chaque point représente une commune française. Les données d'élections proviennent du Ministère de l'Intérieur, tandis que les données relatives au niveau de vie médian et à la densité de population proviennent de l'Insee.
 
 ![Alt text](macron_struc_8_8.png)
 
