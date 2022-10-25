@@ -6,3 +6,5 @@ An artificial neuron network that predicts the results of the 2022 French presid
 Dans cette version, 2 paramètres ont été utilisés, le niveau de vie médian de la commune et sa densité de population. 
 
 On peut voir sur les figures qu'avec un réseau à 2 couches de 8 neurones chacune, le réseau prédit des résultats qualitativement similaires à ceux obtenus lors des élections.
+
+![alt text](https://github.com/[username]/[reponame]/macron_struc_8_8.png?raw=true)
