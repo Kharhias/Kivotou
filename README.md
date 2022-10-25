@@ -8,3 +8,7 @@ Dans cette version, 2 paramètres ont été utilisés, le niveau de vie médian 
 On peut voir sur les figures qu'avec un réseau à 2 couches de 8 neurones chacune, le réseau prédit des résultats qualitativement similaires à ceux obtenus lors des élections.
 
 ![Alt text](macron_struc_8_8.png)
+
+![Alt text](lepen_struc_8_8.png)
+
+![Alt text](melenchon_struc_8_8.png)
